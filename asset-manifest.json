@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app.github.io/static/css/main.5e7125ec.css",
+    "main.js": "/my-app.github.io/static/js/main.cd26ed32.js",
+    "static/js/453.96453769.chunk.js": "/my-app.github.io/static/js/453.96453769.chunk.js",
+    "static/media/index-DEAKIN.png": "/my-app.github.io/static/media/index-DEAKIN.a480f431c5f3143b4cb6.png",
+    "index.html": "/my-app.github.io/index.html",
+    "main.5e7125ec.css.map": "/my-app.github.io/static/css/main.5e7125ec.css.map",
+    "main.cd26ed32.js.map": "/my-app.github.io/static/js/main.cd26ed32.js.map",
+    "453.96453769.chunk.js.map": "/my-app.github.io/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7125ec.css",
+    "static/js/main.cd26ed32.js"
+  ]
+}
